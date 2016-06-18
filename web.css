@@ -1,0 +1,68 @@
+ul	{
+	padding-top: 10px;
+	size: 50%
+	
+	}
+
+.jumbotron a {
+	color: blue;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 95%;
+	margin-left: 0px;
+	margin-right: 0px;
+
+	}
+	
+li {
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 95%;
+	margin-left: 25px;
+	margin-right: 25px;
+	}
+a {
+	color: grey;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 15px;
+	margin-left: 30px;
+	margin-right: 30px;
+	}
+
+hr {
+	margin-left: 20px;
+	margin-right: 20px;
+	}	
+	
+.jumbotron {
+	margin-left: 25px;
+	margin-right: 25px;
+	}
+	
+.jumbotron p {
+	margin-left: 10px;
+	margin-right: 25px;
+	margin-top: 25px;
+	font-size: 95%;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+.title {
+	margin-left: 25px;
+	margin-right: 25px;
+	}
+
+.title h1	{
+	color: #000099;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 30px;
+
+	}
+	
+.title p {
+
+	color: grey;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 15px;
+	
+	}
+
+
